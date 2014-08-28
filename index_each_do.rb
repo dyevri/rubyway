@@ -1,0 +1,1 @@
+[18:30:14]<oil>астонмартин git clone -> git branch -> git commit -> git commit -> git pull -> git merge -> git push
